@@ -1,3 +1,6 @@
+#This is the code for inserting elemnt to array using C
+
+
 #include<stdio.h>
 int main()
 {
